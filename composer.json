@@ -1,0 +1,31 @@
+{
+    "name": "itiden/nova-file-size-field",
+    "description": "A Laravel Nova field.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "field",
+        "File size"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Itiden\\Fields\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Itiden\\Fields\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
