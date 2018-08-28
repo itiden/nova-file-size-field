@@ -1,5 +1,7 @@
 # Nova File Size Field
 
+![screenshot](./docs/screenshot.png)
+
 ## Installation
 
 You can install the package in to a Laravel app that uses Nova via composer:
