@@ -2,9 +2,9 @@
 
 Outputs a field containing bytes to a human readable format:
 
-##### 12000 => **12 KB**
-##### 25000000 => **25 MB**
-##### 99000000000 => **99 GB**
+12000 => **12 KB**  
+25000000 => **25 MB**  
+99000000000 => **99 GB**  
 
 ![screenshot](./docs/screenshot.png)
 
