@@ -13,7 +13,7 @@ class FileSize extends Field
      */
     public $component = 'fileSize';
 
-    public function __construct(string $name, ?string $attribute = null, ?mixed $resolveCallback = null)
+    public function __construct(string $name, ?string $attribute = null, mixed $resolveCallback = null)
     {
         parent::__construct($name, $attribute, $resolveCallback);
     }
